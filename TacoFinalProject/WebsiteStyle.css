@@ -3,7 +3,6 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background-color: #ffdfbb;
     background-color: #f7e3c8;
     color: #2f2a26;
 }
@@ -12,7 +11,6 @@ header {
     background: repeating-linear-gradient( 90deg, #fff4cc 0px, #fff4cc 18px, #d9782d 18px, #d9782d 36px, #f3c7b4 36px, #f3c7b4 54px ) bottom / 100% 12px no-repeat, #b4432f;
     color: #fff4cc;
     text-align: center;
-    padding: 20px;
     padding: 28px 20px;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
 }
@@ -24,10 +22,8 @@ header h1 {
 }
 
 nav {
-    background-color: #ff6a00;
     background-color: #d9782d;
     text-align: center;
-    padding: 10px;
     padding: 16px 10px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.10);
 }
@@ -104,7 +100,6 @@ nav a:hover {
 
 
 .tab {
-    background-color: #f6bdad;
     width: 250px;
     margin: 15px;
     padding: 15px;
